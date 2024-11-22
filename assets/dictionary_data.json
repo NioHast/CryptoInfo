@@ -1,0 +1,1094 @@
+[
+  {
+    "Term": "51% Attack",
+    "Description": "An attack on blockchain by a group of miners controlling more than 50% of network hash rate."
+  },
+  {
+    "Term": "Address Delegation",
+    "Description": "Delegation of a wallet's stake to a Super Staker."
+  },
+  {
+    "Term": "Airdrop",
+    "Description": "A way to promote cryptocurrencies by sending some free tokens to traders."
+  },
+  {
+    "Term": "Algorithm",
+    "Description": "Algorithm is a set of rules to follow to solve a problem or conduct a task."
+  },
+  {
+    "Term": "Algorithmic Stablecoin",
+    "Description": "Algorithmic stablecoins are tokens pegged to a fiat currency which is usually the US dollar, purely through software and specific conditions."
+  },
+  {
+    "Term": "All-Time-High (ATH)",
+    "Description": "The highest point (in price, in market capitalization) that a cryptocurrency has been in history."
+  },
+  {
+    "Term": "All-Time-Low (ATL)",
+    "Description": "The lowest point (in price, in market capitalization) that a cryptocurrency has been in history."
+  },
+  {
+    "Term": "Altcoin",
+    "Description": "Coins althernative to Bitcoin."
+  },
+  {
+    "Term": "Application Programming Interface (API)",
+    "Description": "It is a software that acts like an intermediary or a bridge that lets two applications talk to each other. It is the one that lets applications, data and devices interact."
+  },
+  {
+    "Term": "Application-Specific Integrated Circuit (ASIC)",
+    "Description": "Refers to specialized computers that are made to do a very specific task (eg. calculate hashes for Bitcoin's Proof-of-Work)."
+  },
+  {
+    "Term": "Arbitrage",
+    "Description": "A strategy where investors buy a currency in a market and sell it at a higher price in another market to gain profit."
+  },
+  {
+    "Term": "ASIC Resistant",
+    "Description": "A term used to describe cryptocurrency proof-of-work protocols that are resistant to Application-Specific Integrated Circuit (ASIC), by packing in various parameters that make it difficult for ASICs to have a competitive edge against consumer hardwares."
+  },
+  {
+    "Term": "Ask Me Anything (AMA)",
+    "Description": "Ask me anything refers to actions where individuals of certain profession (eg. fireman, nurse, journalists) or company (eg. CEO of Tesla) conduct a session for users to ask them questions."
+  },
+  {
+    "Term": "Atomic SWAP",
+    "Description": "Atomic Swap refers to the exchange of cryptocurrencies that operate in different block chains without intermediaries."
+  },
+  {
+    "Term": "Automatic Replay Protection",
+    "Description": "Automatic Replay Protection refers to the upgrade implemented by Bitcoin Cash to stop the loss of funds from exchanges through replay attacks."
+  },
+  {
+    "Term": "Bagholder",
+    "Description": "A person who is holding a large quantity of cryptocurrency which is declining in value or becoming worthless."
+  },
+  {
+    "Term": "Bakkt",
+    "Description": "Bakkt is a company developed by the Intercontinental Exchange (ICE), owner of the New York Stock Exchange. It specializes in Futures/Options contracts for cryptocurrencies."
+  },
+  {
+    "Term": "Batch Auction",
+    "Description": "A Batch Auction distributes an amount of tokens to users that is proportional to their contribution to the pool."
+  },
+  {
+    "Term": "Bearish",
+    "Description": "A term used to indicate negative sentiment towards the market or an asset, where investors believe that there will be downward price movement."
+  },
+  {
+    "Term": "Bear Market",
+    "Description": "Contrary to bull market, it indicates the direction of the market going for downward trend."
+  },
+  {
+    "Term": "Bitcoin ATM",
+    "Description": "A machine from which you can buy or sell Bitcoin. Typically also offers different types of cryptocurrencies."
+  },
+  {
+    "Term": "Bitcoin Evangelist",
+    "Description": "Individuals who are passionate about Bitcoin, and are dedicated in spreading knowlege about Bitcoin."
+  },
+  {
+    "Term": "Bitcoin Improvement Proposal (BIP)",
+    "Description": "Refers to improvement proposals for Bitcoin, used to introduce features or any updates on the Bitcoin network."
+  },
+  {
+    "Term": "BitLicense",
+    "Description": "Refers to the business license issued by the New York State Department of Financial Services (NYSDFS) to companies dealing with Cryptocurrencies (subject to certain exceptions) in New York."
+  },
+  {
+    "Term": "Block",
+    "Description": "In the context of blockchain, block refers to the collection of transactional data or information that are bundled together in a predetermined size."
+  },
+  {
+    "Term": "Blockchain",
+    "Description": "In Bitcoin's case, blockchain describes its decentralized, public ledger which contains transactional information."
+  },
+  {
+    "Term": "Block Confirmation",
+    "Description": "Refers to the number of confirmation a particular block has. Each block ahead of the referenced block adds one block confirmation to it."
+  },
+  {
+    "Term": "Block Explorer",
+    "Description": "Application or websites which display information such as status of transactions or data contained in a block of a given public blockchain network."
+  },
+  {
+    "Term": "Block Height",
+    "Description": "A number that is used to indicated the position of a particular block within a blockchain."
+  },
+  {
+    "Term": "Block Reward",
+    "Description": "One of the mechanisms built into a blockchain to incentivize validators."
+  },
+  {
+    "Term": "Bloodbath",
+    "Description": "In context of trading, the term bloodbath is commonly used to describe a market which is on a downtrend with many assets suffering from value depreciation."
+  },
+  {
+    "Term": "Bots",
+    "Description": "Refers to software or programmes that automatically trade based on preset behaviours."
+  },
+  {
+    "Term": "Bounty",
+    "Description": "Public tasks available for anyone for a reward."
+  },
+  {
+    "Term": "BUIDL",
+    "Description": "An advice for investors to contribute new projects on blockchain rather than holding cryptocurrencies and waiting for the price to increase."
+  },
+  {
+    "Term": "Bullish",
+    "Description": "A term used to indicate positive sentiment towards the market or an asset, where investors believe that there will be upward price movement."
+  },
+  {
+    "Term": "Bull Market",
+    "Description": "A bull market indicates the direction of the market going in an upward trend."
+  },
+  {
+    "Term": "Burned Tokens",
+    "Description": "Tokens which have been sent to addresses whose private key are not known, effectively becoming unusable."
+  },
+  {
+    "Term": "Buy/Sell Tax",
+    "Description": "On-chain buy or sell tax rate where a percentage of the tokens bought/sold will be transferred to a set address."
+  },
+  {
+    "Term": "Buy the F***in Dip (BTFD)",
+    "Description": "An encouraging rally by asset/cryptocurrency supporters to buy during a price decline"
+  },
+  {
+    "Term": "Buy Wall",
+    "Description": "Anomalously large buy order(s) at a single price point that reflects as a \"wall\" in the order book."
+  },
+  {
+    "Term": "Byzantine Fault",
+    "Description": "A byzantine fault is where an error has occured, yet a computer system does not know due which component/what failed to the lack of information and continues to iterate on a given instruction."
+  },
+  {
+    "Term": "Byzantine Generals’ Problem",
+    "Description": "A term used to describe the situation a single strategy which requires consensus from all members within a group who cannot be trusted or verified."
+  },
+  {
+    "Term": "cc0 NFT",
+    "Description": "A cc0 NFT is a piece of digital content where the IP rights have been relinquished."
+  },
+  {
+    "Term": "Central Bank Digital Currency (CBDC)",
+    "Description": "It is a digital fiat currency issued by the central banks, contrary to cryptocurrency that issued by non-legislative party."
+  },
+  {
+    "Term": "Centralized",
+    "Description": "An organization structure wherein a small handful of actors have control over the entire network."
+  },
+  {
+    "Term": "Central Ledger",
+    "Description": "Central data repository of a company or bank."
+  },
+  {
+    "Term": "Circulating Supply",
+    "Description": "An approximation of the number of coins or tokens that are currently not locked and available for public transactions."
+  },
+  {
+    "Term": "Cloud Mining",
+    "Description": "Mining on blockchains through rented processing power rented from companies that host the physical equipment."
+  },
+  {
+    "Term": "Cold Storage",
+    "Description": "Offline storage of cryptocurrencies which is arguably safer as they also require physical access (eg. hardware wallet, paper wallets)."
+  },
+  {
+    "Term": "Cold Wallet",
+    "Description": "Wallets that are offline and require physical access to certain devices (eg. hardware wallet, paper wallets)."
+  },
+  {
+    "Term": "Collateralized Debt Obligation (CDO)",
+    "Description": "A collateralized debt obligation (CDO) is a form of derivative in which the value is generated from another underlying asset, and is sold to institutional investors."
+  },
+  {
+    "Term": "Composability",
+    "Description": "Composability refers to the ability to combine different components of a software stack."
+  },
+  {
+    "Term": "Consensus",
+    "Description": "Consensus is achieved in a blockchain system when all participants agree on the content of the next block that will be added onto the blockchain."
+  },
+  {
+    "Term": "Crowdsale",
+    "Description": "This type of auction has a fixed price per token that is sold on a first-come-first-serve basis."
+  },
+  {
+    "Term": "Crypto Bubble",
+    "Description": "It is a speculation in the cryptocurrencies and the price of cryptocurrencies would go extremely high before the bubble bursts."
+  },
+  {
+    "Term": "Cryptocurrency",
+    "Description": "A form of digital currency that utilizes cryptographic protocols to record ownership and prevent counterfeiting."
+  },
+  {
+    "Term": "Cryptocurrency Act of 2020",
+    "Description": "The Cryptocurrency Act of 2020 is a bill which aims to clarify which federal agencies would regulate which type of crypto assets."
+  },
+  {
+    "Term": "Cryptography",
+    "Description": "A discipline or field of study which practices using cryptography to convert human-readable information that can only be deciphered by individuals who have the knowledge to."
+  },
+  {
+    "Term": "Custody",
+    "Description": "Protective care or guardianship of an asset."
+  },
+  {
+    "Term": "Daily Active Addresses (DAA)",
+    "Description": "On a blockchain, users interact with one another through their addresses, and daily active addresses (DAA) refers to the number of addresses which fulfills the defined activity parameter on a given blockchain."
+  },
+  {
+    "Term": "Dead Cat Bounce",
+    "Description": "Price rally that is short lived after a prolonged decline. Price charts will show a recovery in anticipation of a market turnaround only to decline further."
+  },
+  {
+    "Term": "Decentralized",
+    "Description": "A system where there are no centralized points of failure or organization with no central authority figure."
+  },
+  {
+    "Term": "Decentralized Applications (dApps)",
+    "Description": "Applications that run on decentralized peer-to-peer networks such as Ethereum."
+  },
+  {
+    "Term": "Decentralized Autonomous Organization (DAO)",
+    "Description": "Open source and decentralized systems that do not require centralized operators or controllers."
+  },
+  {
+    "Term": "Decentralized Finance (DeFi)",
+    "Description": "Decentralized Finance (DeFi) refers to the movement of building decentralized financial applications that have no central authority and is censorship free."
+  },
+  {
+    "Term": "Decryption",
+    "Description": "The process of decrypting data that was previously encrypted (made unreable) back to a readable form."
+  },
+  {
+    "Term": "Degen",
+    "Description": "Cryptotrading without Due Diligence and research - basically gambling."
+  },
+  {
+    "Term": "Delegated Proof-of-Stake (dPOS)",
+    "Description": "A consensus mechanism where selected members of a network are voted as delegates to validate transactions and produce blocks on a blockchain."
+  },
+  {
+    "Term": "Derivatives",
+    "Description": "A financial instrument which derives its value from the performance of an underlying asset or index (eg. gold, crude oil)."
+  },
+  {
+    "Term": "Derivatives Market",
+    "Description": "A market for derivatives which are instruments such as futures or options whose value is derived from an underlying asset."
+  },
+  {
+    "Term": "Difficulty",
+    "Description": "A relative measure on how difficult it is to correctly guess a new block."
+  },
+  {
+    "Term": "Directed Acyclic Graph (DAG)",
+    "Description": "Directed acyclic graphs refers to a data structure that is built in one single direction, yet branches out and never repeats."
+  },
+  {
+    "Term": "Distributed Denial of Service (DDoS) Attack",
+    "Description": "A common cyber-attack tactic where a perpetrator diverts large amounts of traffic towards a particular network or service in an effort to disrupt normal services."
+  },
+  {
+    "Term": "Distributed Ledger",
+    "Description": "Ledgers whose data is stored and synced across a network of nodes."
+  },
+  {
+    "Term": "Distributed Ledger Technology (DLT)",
+    "Description": "Describes the technology that enables distributed ledger."
+  },
+  {
+    "Term": "Dominance",
+    "Description": "Typically refers to Bitcoins' market capitalization dominance."
+  },
+  {
+    "Term": "Double Spending",
+    "Description": "Double spending refers to the act of spending digital currencies twice. This is most commonly applied on crypto exchanges by unscrupulous actors."
+  },
+  {
+    "Term": "Do Your Own Research (DYOR)",
+    "Description": "An advice for investors to do their own research on the coins they wanted to invest in."
+  },
+  {
+    "Term": "Dump",
+    "Description": "A common term used to describe downward market movement, or to describe the action of selling an individuals holdings."
+  },
+  {
+    "Term": "Dusting Attack",
+    "Description": "A new form of malicious activity in which hackers and scammers attempt to undermine the privacy of cryptocurrency users by sending little amounts of money to their wallets."
+  },
+  {
+    "Term": "Dutch Auction",
+    "Description": "A Dutch Auction, also know as an \"inverted\" auction, starts off with high asking price that decays over time until a pre-determined floor price."
+  },
+  {
+    "Term": "EIP (Ethereum Improvement Proposal)",
+    "Description": "Refers to improvement proposals for Ethereum, used to introduce features or any updates on the Ethereum network."
+  },
+  {
+    "Term": "Emission",
+    "Description": "The speed/rate at which new coins are minted and released as dictated by the protocols written."
+  },
+  {
+    "Term": "Encryption",
+    "Description": "In cryptography, encryption is a process of encoding information the original form of information called plaintext via an algorithm called cipher. The encrypted message is now called ciphertext. Only authorized parties can decipher the ciphertext and convert back it to the original plaintext."
+  },
+  {
+    "Term": "Enterprise Ethereum Alliance (EEA)",
+    "Description": "Enterprise Ethereum Alliance is made up for a group of Ethereum developers, corporations as well as startups who are collaborating to find ways to use Ethereum for business applications."
+  },
+  {
+    "Term": "ERC-1155",
+    "Description": "ERC-1155 token standard allows each token ID to represent both non-fungible (NFTs) and fungible tokens which may have their metadata, token supply and other attributes."
+  },
+  {
+    "Term": "ERC-20",
+    "Description": "ERC-20 is one of the most widely used token standards in Ethereum to create fungible, exchangeable tokens."
+  },
+  {
+    "Term": "ERC-721",
+    "Description": "ERC-721 is one of the most widely used token standards in Ethereum to create non-fungible, exchangeable tokens."
+  },
+  {
+    "Term": "Ethereum Name Service (ENS)",
+    "Description": "Ethereum Name Service (ENS) is a look-up service that allows Ethereum users to find websites or send and receive funds via simple names."
+  },
+  {
+    "Term": "Ethereum Virtual Machine (EVM)",
+    "Description": "Ethereum Virtual Machine (EVM) is the environment in which all smart contracts are executed."
+  },
+  {
+    "Term": "Exchange Traded Fund (ETF)",
+    "Description": "An exchange-traded fund (ETF) is a form of security that tracks a collection of securites such as stocks, bonds, index or cryptocurrency but tradeable like a single stock."
+  },
+  {
+    "Term": "Explain Like I'm Five (ELI5)",
+    "Description": "To explain in such simple terms that even a five-year-old would be able to understand it."
+  },
+  {
+    "Term": "Externally Owned Accounts (EOA)",
+    "Description": "Externally owned accounts (EOAs) are accounts that are controlled by a private key and have no coding associated with them."
+  },
+  {
+    "Term": "Faucet",
+    "Description": "A faucet usually represents a site or app where a user can navigate to for small rewards repeated over time."
+  },
+  {
+    "Term": "Fear of Missing Out (FOMO)",
+    "Description": "Refers to the feeling of apprehension for missing out on a potentially profitable investment opportunity and regretting it later. Generally an expression describing investors' fear of missing out the good timing of buying cryptocurrencies that could eventually be profitable."
+  },
+  {
+    "Term": "Fear, Uncertainty and Doubt (FUD)",
+    "Description": "A strategy to dissuade people from buying a particular cryptocurrency by spreading false information."
+  },
+  {
+    "Term": "Fiat-Pegged Cryptocurrency",
+    "Description": "Cryptocurrencies are pegged to an underlying asset."
+  },
+  {
+    "Term": "Flappening",
+    "Description": "Flappening is a term used to describe Litecoin growing bigger and becoming more valuable than Bitcoin Cash (BCH). It is spawned from the term Flippening (used when another crypto overtakes Bitcoin)."
+  },
+  {
+    "Term": "Frontrun",
+    "Description": "To intercept a particularly large AMM buy order for the purpose of purchasing an reselling the assets back to the buyer before the order transaction is mind on the blockchain."
+  },
+  {
+    "Term": "Full Node",
+    "Description": "Full Nodes are computers that verify the set of rules that are built into the protocols of a given cryptocurrency."
+  },
+  {
+    "Term": "Full Pay-Per-Share (FPPS)",
+    "Description": "FPPS is quite similar to PPS; the only difference is that the pool will additionally pay a transaction fee incentive if the block is identified. FPPS is the same as PPS+."
+  },
+  {
+    "Term": "Fully Diluted Valuation",
+    "Description": "Fully Diluted Valuation (FDV) is the theoretical market capitalization of a coin if the entirety of its supply is in circulation, based on its current market price. The FDV value is theoretical as increasing the circulating supply of a coin may impact its market price. Also depending on the tokenomics, emission schedule or lock-up period of a coin's supply, it may take a significant time before its entire supply is released into circulation."
+  },
+  {
+    "Term": "Futures",
+    "Description": "An agreement between two counterparties that obligates them to transact in the future based on the contract terms set."
+  },
+  {
+    "Term": "Gas",
+    "Description": "A unit of measurement of the computational effort in conducting transactions or smart contracts on Ethereum blockchain."
+  },
+  {
+    "Term": "Gas Limit",
+    "Description": "A term refers to the maximum amount of units of gas user's willingness to spend on a transaction on Ethereum blockchain."
+  },
+  {
+    "Term": "Gas Price",
+    "Description": "A term refers to the amount of price user is willing to pay for a transaction on Ethereum blockchain."
+  },
+  {
+    "Term": "Genesis Block",
+    "Description": "It is the first block of data that is processed and validated to form a new blockchain, typically called as 'block 0' or 'block 1'."
+  },
+  {
+    "Term": "gm Good Morning",
+    "Description": "gm is the short form writing for good morning. Used extensively within the crypto community where individuals greet each other casually. On the other hand, good night (gn) is used when people sign off for the day."
+  },
+  {
+    "Term": "Goblin Town",
+    "Description": "A term used to describe the market's persistent downtrend, synonymous with \"bear market\"."
+  },
+  {
+    "Term": "Golden Cross",
+    "Description": "It is a bullish signal in technical candlestick pattern by comparing two lines of short-term moving average and long-term average. It is a golden cross when the short term moving average broke its long-term moving average."
+  },
+  {
+    "Term": "Graphical Processing Unit (GPU)",
+    "Description": "They are chips dedicated to graphics processing or floating point operations, allowing to lighten the workload of the processors during applications usage such as video games."
+  },
+  {
+    "Term": "Gwei",
+    "Description": "The monetary domination of gas, involving Ether."
+  },
+  {
+    "Term": "Halving",
+    "Description": "Event that serves to reduce in half the reward of the Proof-of-Work miners that operate in the blockchain network."
+  },
+  {
+    "Term": "Hard cap",
+    "Description": "The maximum amount that an ICO will be raising."
+  },
+  {
+    "Term": "Hard Fork",
+    "Description": "It is a permanent divergence of a blockchain into two blockhains. The original blockchain does not recognize the new version."
+  },
+  {
+    "Term": "Hash",
+    "Description": "A hash function is an output code (unique and alphanumeric) that we obtain from an input string,"
+  },
+  {
+    "Term": "Hashgraph",
+    "Description": "Hashgraph is a distributed ledger system that has been compared to the blockchain idea as a continuation or successor."
+  },
+  {
+    "Term": "Hashrate",
+    "Description": "Total processing power of a blockchain or what is the same, are the amount of hash values that can be made in a period of time."
+  },
+  {
+    "Term": "Hey Hey Hey",
+    "Description": "A term made popular by Carlos Matos who was the spokesperson for the Bitconnect Ponzi. He used it frequently during Bitconnect events to rile up the crowd."
+  },
+  {
+    "Term": "HODL",
+    "Description": "A crypto slang of saying holding the assets rather than selling it. A crypto slang encouraging investors to hold on to their assets rather than selling it."
+  },
+  {
+    "Term": "Hot Wallet",
+    "Description": "It is a tool that store your cryptocurrencies and always connected to internet."
+  },
+  {
+    "Term": "Hybrid PoW/PoS",
+    "Description": "It is the allowance for both Proof-of-Stake and Proof-of-Work distribution consensus to work on the same network."
+  },
+  {
+    "Term": "Hyperledger (Hyperledger Foundation)",
+    "Description": "Hyperledger is an open source collaborative effort to create blockchain technologies hosted by The Linux Foundation since 2016."
+  },
+  {
+    "Term": "IEO",
+    "Description": "Initial Exchange Offering (IEO) is a spin-off of Initial Coin Offering (ICO), where the sale of tokens are conducted on an exchange rather than by the coin team themselves."
+  },
+  {
+    "Term": "Immutable",
+    "Description": "A property characterized by inability to be change and stays unchanged over time."
+  },
+  {
+    "Term": "Impermanent Loss",
+    "Description": "Temporary loss of funds due to volatility leading to divergence in price between token pairs provided by liquidity providers."
+  },
+  {
+    "Term": "Initial Coin Offering (ICO)",
+    "Description": "Initial Coin Offering (ICO) is the equivalent of Initial Public Offering (IPO), where a company/cryptocurrency venture raises funds through crowd sales."
+  },
+  {
+    "Term": "Internet of Things (IoT)",
+    "Description": "It is a system that lets any devices that are connected to internet to comunicate with each other without human-to-human or human-to-devices interactions."
+  },
+  {
+    "Term": "Interoperability",
+    "Description": "Interoperability refers to the property of product/systems that are able to work with products/systems that are different without any restrictions."
+  },
+  {
+    "Term": "InterPlanetary File System (IPFS)",
+    "Description": "The InterPlanetary File System (IPFS) is a peer-to-peer network and distributed file system protocol for storing and transferring data."
+  },
+  {
+    "Term": "IPO",
+    "Description": "Initial Public Offering (IPO) refers to the process where a public company offers newly issued shares to the public and as a result raise capital from public investors."
+  },
+  {
+    "Term": "IYKYK",
+    "Description": "Abbreviation for: if you know you know. The phrase implies that the user has dropped some sort of insider knowledge about a specific experience. Often, the post will have some callback to a particular experience that will instantly stand out to those who are “in the know,” or ironically sharing commonly known information."
+  },
+  {
+    "Term": "Kimchi Premium",
+    "Description": "The kimchi premium is the price difference between South Korean exchanges and other global exchanges for bitcoin."
+  },
+  {
+    "Term": "KYC (Know Your Customer)",
+    "Description": "KYC stands for \"Know Your Customer\", a process for business entities are required to verify its clients and assessing them."
+  },
+  {
+    "Term": "Ledger",
+    "Description": "A record of financial transactions that cannot be changed, only appended with new transactions."
+  },
+  {
+    "Term": "Leverage",
+    "Description": "It is an investment strategy to gain potential return of the investment by borrowing the money."
+  },
+  {
+    "Term": "Lightning Network",
+    "Description": "It is the \"second layer\" or an off-chain of payment protocol that operates on top of a blockchain. Payments on this network do not need block confirmation and it will be instant."
+  },
+  {
+    "Term": "Limit Order / Limit Buy / Limit Sell",
+    "Description": "Orders placed by traders to buy or sell a cryptocurrency when a certain price is reached."
+  },
+  {
+    "Term": "Liquidity",
+    "Description": "The ease of which cryptocurrency can be bought and sold without impacting the overall market price."
+  },
+  {
+    "Term": "Liquid Proof of Stake (LPoS)",
+    "Description": "A proof of stake consensus mechanism by Tezos that slightly differs from Delegated Proof of Stake."
+  },
+  {
+    "Term": "Mainnet",
+    "Description": "It is the main network of Bitcoin, where the transactions of this cryptocurrency are registered and take place."
+  },
+  {
+    "Term": "Margin Call",
+    "Description": "Margin call takes place when investor's margin account falls below the required amount to stay afloat."
+  },
+  {
+    "Term": "Margin Trading",
+    "Description": "It is a way of investing by borrowing money from a broker (or in crypto, an exchange or platform) to trade."
+  },
+  {
+    "Term": "Market capitalization (market cap)",
+    "Description": "In Crypto, market cap is measured by multiplication of the circulating supply of tokens or currency and its current price."
+  },
+  {
+    "Term": "Market Maker",
+    "Description": "Participant of the market who creates buy and orders."
+  },
+  {
+    "Term": "Market Order / Market Buy / Market Sell",
+    "Description": "A market order is a buy or sell order of stocks or cryptocurrency at the best price available in the current market as soon as possible."
+  },
+  {
+    "Term": "Market Taker",
+    "Description": "Participant of the market who buys and sells from currently existing orders."
+  },
+  {
+    "Term": "Masternodes",
+    "Description": "Computers that are responsible for processing blockchain transactions and receive a reward when a block is mined."
+  },
+  {
+    "Term": "Mempool",
+    "Description": "It is the abbreviation of Memory Pool. Set of unconfirmed transactions in a blockchain."
+  },
+  {
+    "Term": "Merkle Tree",
+    "Description": "A Merkle tree is also known as a hash tree in cryptography. It is a tree where every lead node is labelled with cryptographic hash of a data block, and every non-leaf node is labelled with the hash of the labels of its child nodes. It is used to verify of data stored within it and transferable in and between computers."
+  },
+  {
+    "Term": "Metaverse",
+    "Description": "The Metaverse is a virtual space where users are able to interact with each other in a computer generated environment."
+  },
+  {
+    "Term": "MicroBitcoin (uBTC)",
+    "Description": "One millionth of a bitcoin or 0.000001 of a bitcoin. Microbitcoin is the abbreviation of uBTC and often misunderstood as the fork of Bitcoin."
+  },
+  {
+    "Term": "Microtransaction",
+    "Description": "Microtransaction is a system that made very small payments possible in buying the common digital goods and services, such as purchasing items in a game."
+  },
+  {
+    "Term": "Mineable",
+    "Description": "A cryptocurrency is said to be \"mineable\" when it has the system thrugh which miners can be rewarded with newly-created cryptocurrencies for creating blocks."
+  },
+  {
+    "Term": "Miners",
+    "Description": "Contributors to a blockchain taking part in the process of mining."
+  },
+  {
+    "Term": "Mining",
+    "Description": "It is the process of the miners verify and adding transaction recors into a block."
+  },
+  {
+    "Term": "Mining Contract",
+    "Description": "Another term for cloud mining, where users can rent or invest in mining capacity online."
+  },
+  {
+    "Term": "Mining Pool",
+    "Description": "Combination of resources of several miners to obtain a higher mining power and thus achieve greater rewards for the opening of blocks."
+  },
+  {
+    "Term": "Mining Reward",
+    "Description": "The reward resulting from contributing computing resources to process transactions."
+  },
+  {
+    "Term": "Mining Rig",
+    "Description": "A dedicated hardware to mine"
+  },
+  {
+    "Term": "Mnemonic Phrase",
+    "Description": "A mnemonic phrase (also known as mnemonic seed, or seed phrase) is a list of words used in sequence to access or restore your cryptocurrency assets."
+  },
+  {
+    "Term": "Mnemonics",
+    "Description": "Mnemonics are memory aids with a system such as letters or associations that help in recall. *see Mnemonic Phrase."
+  },
+  {
+    "Term": "Money Printer Go Brrr",
+    "Description": "A meme made to describe the US Fed printing excessive amount of money to support the traditional financial market to avert the stock market crash during the COVID-19 coronavirus pandemic."
+  },
+  {
+    "Term": "Moon",
+    "Description": "\"Moon\" or \"To the moon\" is a crypto slang that describes an exclamation when the cryptocurrencies prices are rising and when it hit the peak, the coin is said to be \"mooning\"."
+  },
+  {
+    "Term": "Mt. Gox",
+    "Description": "Mtgox or Mt. Gox was one of the first websites where users could take part in fiat-to-bitcoin exchange (and vice versa)."
+  },
+  {
+    "Term": "Multisignal (multi-signature)",
+    "Description": "They are wallets that require more than one key for transactions to be authorized."
+  },
+  {
+    "Term": "Node",
+    "Description": "Within the blockchain network, the nodes are computers that connect to the network and have an updated copy of the blockchain."
+  },
+  {
+    "Term": "Nonce",
+    "Description": "Abbreviation for ‘number only used once’ It is of vital importance next to the hash in the verification of data from the Bitcoin blockchain network."
+  },
+  {
+    "Term": "Non-custodial",
+    "Description": "It is a decentralized type-of-wallet, where the users owns its private keys."
+  },
+  {
+    "Term": "Non-Fungible Tokens (NFT)",
+    "Description": "They are collectible elements within the Ethereum blockchain under ERC-721, where each token refers to a single element with a certain value."
+  },
+  {
+    "Term": "Off-chain",
+    "Description": "It refers to transactions occuring outside the blockchain and executed instantly."
+  },
+  {
+    "Term": "Offline Staking",
+    "Description": "Staking without needing to be connected to the blockchain."
+  },
+  {
+    "Term": "Open/Close",
+    "Description": "The price at which a cryptocurrency opens at a time period, for example at the start of the day; the price at which a cryptocurrency closes at a time period, for example at the end of the day."
+  },
+  {
+    "Term": "Open Source",
+    "Description": "Open-source software is a type of software released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose."
+  },
+  {
+    "Term": "opML (Optimistic Machine Learning)",
+    "Description": "opML (Optimistic Machine Learning) employs an optimistic verification mechanism and is able to handle large-scale machine learning models with billions of parameters efficiently, using fraud proofs that verify the ML computation."
+  },
+  {
+    "Term": "Option",
+    "Description": "It is a financial instruments that refers to a contract offers the buyer the right to buy or sell an underlying assets at a specified price and time."
+  },
+  {
+    "Term": "Oracles",
+    "Description": "In the context of crypto, oracles refers to services which verify real-world and provide data to blockchains/smart contracts."
+  },
+  {
+    "Term": "Order Book",
+    "Description": "An electronic list of all buy and sell orders in an exchange"
+  },
+  {
+    "Term": "Over The Counter (OTC)",
+    "Description": "It refers to the process that cryptocurrencies are being traded outside exchange and it is done directly between two parties."
+  },
+  {
+    "Term": "Pay-Per-Last N Shares (PPLNS)",
+    "Description": "PPLNS system only pays miners after the pool has discovered the block. This means you'll only be compensated once the block has been discovered."
+  },
+  {
+    "Term": "Pay-Per-Share (PPS)",
+    "Description": "You are compensated for each valid share that you contribute. Each share is worth a set amount of cryptocurrency that may be mined."
+  },
+  {
+    "Term": "Peer to Peer",
+    "Description": "A communication protocol that does not require a central hub."
+  },
+  {
+    "Term": "Permissioned Blockchain",
+    "Description": "It is a private blockchain where the nodes must be previously authorized by a central entity."
+  },
+  {
+    "Term": "PFP",
+    "Description": "It means both 'profile pic' and 'picture for proof'."
+  },
+  {
+    "Term": "Ponzi Scheme",
+    "Description": "A Ponzi scheme is also referred to as pyramid scheme, and typically takes the form of an investment scheme which pays existing investors with funds collected from new investors."
+  },
+  {
+    "Term": "Portfolio",
+    "Description": "A portfolio consists all of your current crypto holdings in one place."
+  },
+  {
+    "Term": "Pre-sale",
+    "Description": "A typically exclusive token sale event preceding a public ICO."
+  },
+  {
+    "Term": "Privacy Coins",
+    "Description": "Cryptocurrencies that are designed with transaction anonimity and user privacy in mind."
+  },
+  {
+    "Term": "Private Keys",
+    "Description": "The alphanumeric string which allows transactions from the cryptocurrency address."
+  },
+  {
+    "Term": "Proof-of-Authority (PoA)",
+    "Description": "A consensus algorithm that asigns block validation queue based on identity and reputation."
+  },
+  {
+    "Term": "Proof-of-Burn (PoB)",
+    "Description": "A consensus algorthm that assigns block validation queue based on the coins/token burned by the validator."
+  },
+  {
+    "Term": "Proof-of-Developer (PoD)",
+    "Description": "A concept of identifying the developers of a project as a means of vouching reputation for a project."
+  },
+  {
+    "Term": "Proof of Stake (PoS)",
+    "Description": "A consensus algorthm that assigns block validation queue based on the coins/token locked in by the validator."
+  },
+  {
+    "Term": "Proof of Work (PoW)",
+    "Description": "A consensus algorithm in which a block is validated via mathematical hashing."
+  },
+  {
+    "Term": "Protocol",
+    "Description": "The set of rules in a network in which participating members comply to allow proper communication."
+  },
+  {
+    "Term": "Public Blockchain",
+    "Description": "An open sourced blockchain where participation is public and permissionless."
+  },
+  {
+    "Term": "Public Keys",
+    "Description": "The alphanumeric string which serves as a public receiving address in cryptocurrencies."
+  },
+  {
+    "Term": "Pump and Dump Scheme",
+    "Description": "A market manipulation method to drive up the price of an asset before profiting by driving it back down."
+  },
+  {
+    "Term": "QR Code",
+    "Description": "Abbreviation \"Quick Response Code\", QR code is a machine readable optical label that stores up to 3Kb of data."
+  },
+  {
+    "Term": "Reddit r/CryptoCurrency Moon",
+    "Description": "Moons are a new way for people to be rewarded for their contributions to r/CryptoCurrency."
+  },
+  {
+    "Term": "REKT",
+    "Description": "A shorthand slang for “wrecked”, typically describes bad trades that results in losses."
+  },
+  {
+    "Term": "Relative Strength Index (RSI)",
+    "Description": "Relative Strength Index (RSI) is a popular technical indicator used to analyse financial markets. By charting the current and historical closing prices to evaluate overbought/oversold conditions, RSI oscillates between 0 - 100, with <30 indicating oversold and >70 indicating overbought."
+  },
+  {
+    "Term": "Replay Attack",
+    "Description": "A replay attack is a form of network attack when valid data transmission is fraudulently intercepted, then delayed or resent to mislead the receiver into doing what the hacker wants."
+  },
+  {
+    "Term": "Ring Signature",
+    "Description": "A type of digital signature performed in a group where it becomes impossible to determine which member's key in the group were used for the digital signature."
+  },
+  {
+    "Term": "ROI",
+    "Description": "Short for “Return on Investment”, the ratio between the net profit and cost of investing."
+  },
+  {
+    "Term": "Rug Pull",
+    "Description": "Sudden removal of liquidity which typically leads to asset prices crashing from the lack of liquidity to absorb buy/sells."
+  },
+  {
+    "Term": "Salt (cryptography)",
+    "Description": "In cryptography, a salt is the additional random input that is added to password or passphrase to make the password hash unique. It prevents from the hashed output password to be cracked so easily by the hacker."
+  },
+  {
+    "Term": "Satoshi",
+    "Description": "A unit measure for the smallest divisible unit of a bitcoin. 1 bitcoin is equal to 100 Million Satoshi."
+  },
+  {
+    "Term": "Satoshi Nakamoto",
+    "Description": "The pseudoym used in publishing the Bitcoin Whitepaper. Identity is unknown."
+  },
+  {
+    "Term": "Scrypt",
+    "Description": "one of the hashing algoritm used in proof-of-work protocol, scrypt requires more memory in order to performing mining functions."
+  },
+  {
+    "Term": "Second-Layer Solutions",
+    "Description": "Secondary network or framework built atop an existing blockchain to address transaction speed and scalability issues."
+  },
+  {
+    "Term": "Secure Asset Fund for Users (SAFU)",
+    "Description": "A feature created by Binance which contains reserve funds that can be used to reimburse users in case of a catastrophic event (eg. exchange hack)."
+  },
+  {
+    "Term": "Securities and Exchange Commission (SEC)",
+    "Description": "U.S. Securities and Exchange Commission, an independant agency of the US Federal government which oversees federal securities laws, proposing securities rules, and regulating the securities industry."
+  },
+  {
+    "Term": "Seed",
+    "Description": "A value used to initiate generation of pseudorandom number, ususally a string of 12 commen English words."
+  },
+  {
+    "Term": "Segregated Witness (SegWit)",
+    "Description": "A soft fork implementation to change the Bitcoin Protocol's transaction format to address Bitcoin's scalability issues whilst introducing new features."
+  },
+  {
+    "Term": "Sell wall",
+    "Description": "Anomalously large sell order(s) at a single price point that reflects as a \"wall\" in the order book."
+  },
+  {
+    "Term": "SHA-256",
+    "Description": "Abbreviation of \"Secure Hashing Algoritm - 256\", SHA-256 is part of the SHA2 that allows one-way hashing of any data into a 64 character string."
+  },
+  {
+    "Term": "Sharding",
+    "Description": "A form of database partitioning which breaks up data into smaller segments."
+  },
+  {
+    "Term": "Shilling",
+    "Description": "One who poses as a enthsiastic customer to swindle others as a form of covert advestising."
+  },
+  {
+    "Term": "Shitcoin",
+    "Description": "A coin with no obvious potential value or usage."
+  },
+  {
+    "Term": "Side Chain",
+    "Description": "A separate blockchain ledger that runs parallel with the primary blockchain."
+  },
+  {
+    "Term": "Sim Swapping",
+    "Description": "It is a tactic where hacker overtake the mobile phone to exploit the two-factor authentication and two-step verification."
+  },
+  {
+    "Term": "Smart contracts",
+    "Description": "Self executing contracts on the blockchain without needing human executors or notary."
+  },
+  {
+    "Term": "Soft Cap",
+    "Description": "Targeted fund raising limit of an ICO."
+  },
+  {
+    "Term": "Soft Fork",
+    "Description": "A backward-compatible update to a decentralized blockchain protocol."
+  },
+  {
+    "Term": "Software Development Kit (SDK)",
+    "Description": "It is a collection of software development tools in one package installation. It is designed to help developing applications for a specific device or operating system (OS)."
+  },
+  {
+    "Term": "Solidity",
+    "Description": "Object oriented programming languaged used in various smart contract blockchains."
+  },
+  {
+    "Term": "Solo Staker",
+    "Description": "A Qtum PoS miner using their own coins for staking. Qtum blockchain launched with Solo Stakers and will continue to have this available after offline staking launches."
+  },
+  {
+    "Term": "Stablecoin",
+    "Description": "Cryptocurrency with a price peg to fiat currencies or commodity."
+  },
+  {
+    "Term": "Staking",
+    "Description": "The state of locking-in significant amount of token to participate as a validator of a Proof-of-Stake network."
+  },
+  {
+    "Term": "Stale Block",
+    "Description": "Double mined blocks that are not included in the blockchain."
+  },
+  {
+    "Term": "State Channel",
+    "Description": "Secondary payment channel occuring off-chain."
+  },
+  {
+    "Term": "STO",
+    "Description": "Security Token Offering (STO) refers to a public offering for tokenized digital securities, or in short security tokens traded in cryptocurrency exchanges."
+  },
+  {
+    "Term": "Stop-loss Order",
+    "Description": "Conditional market order to sell at the next available price, excuted if the price of an asset falls below set-upon limit."
+  },
+  {
+    "Term": "Super Staker",
+    "Description": "A Qtum Core wallet (full node) providing Proof of Stake for delegated addresses, and keeping a small part of each block reward as their fee for providing the staking services."
+  },
+  {
+    "Term": "Tangle",
+    "Description": "The name for IOTA's Directed acylic graph (DAG) based transaction settlement layer."
+  },
+  {
+    "Term": "Testnet",
+    "Description": "Shorthand for \"Test Network\", testnets are staging areas for experimenting new blockchain features."
+  },
+  {
+    "Term": "Ticker",
+    "Description": "A ticker is a stock or asset symbol that abbreviates the asset name and it can be used as an identifier of the asset."
+  },
+  {
+    "Term": "Token",
+    "Description": "Blockchain based unit of value issued by an organization, which grants token holders a right to participate in a network."
+  },
+  {
+    "Term": "Token Burn",
+    "Description": "An event in which tokens are verifiably removed permanently removed from circulation."
+  },
+  {
+    "Term": "Token Generation Event (TGE)",
+    "Description": "An event in which new tokens (ussually on a smart contract platform) are created and distributed to the public."
+  },
+  {
+    "Term": "Total Supply",
+    "Description": "All the tokens and coins that will exist in a cryptocurrency network."
+  },
+  {
+    "Term": "Total Value Locked",
+    "Description": "Total Value Locked (TVL) represents the number of assets that are currently staked in a protocol or the total quantity of underlying amount of funds that a DeFi protocol has secured."
+  },
+  {
+    "Term": "Trading Volume",
+    "Description": "The amount of the cryptocurrency that has been traded in the last 24 hours."
+  },
+  {
+    "Term": "Transaction Fee",
+    "Description": "A payment to the network for performing a transaction to be recorded on the blockchain."
+  },
+  {
+    "Term": "Transactions Per Second (TPS)",
+    "Description": "It is number of transactions done per second. For example, there are 10 transactions of Bitcoin done in 1-minute. The TPS would be 10 transactions/60 seconds = ~0.17 TPS."
+  },
+  {
+    "Term": "Trustless",
+    "Description": "Entirely verifiable, without needing to trust or assume an action is done completely and in good faith."
+  },
+  {
+    "Term": "Turing-Complete",
+    "Description": "A \"turing complete\" code or blockchain refers to the ability to read program-written codes."
+  },
+  {
+    "Term": "Unspent Transaction Output",
+    "Description": "(abbv. \"UTXO\") Coins that are unspent in the wallet. UTXO virtually represents the cryptocurrency one own in the wallet."
+  },
+  {
+    "Term": "UTC Time",
+    "Description": "\"Universal Time Coordinated\", can be used interchangably with Greenwich Mean Time (GMT)."
+  },
+  {
+    "Term": "Utility Token",
+    "Description": "cryptocurrency tokens with specific utilities on a network besides being used as medium of exchange and investment vehicle."
+  },
+  {
+    "Term": "Validator",
+    "Description": "A block-signing participant of a Proof of Stake blockchain network, whom have significant tokens staked on the network."
+  },
+  {
+    "Term": "Variable Buy/Sell Tax",
+    "Description": "On-chain buy sell tax rate that is not fixed, whereby it is possible for contract owners to change at will."
+  },
+  {
+    "Term": "Venture Capital",
+    "Description": "capital (funds) that is invested in a company that needs a substantial pool of funds to initiate."
+  },
+  {
+    "Term": "Virtual AMM (vAMM)",
+    "Description": "The vAMM functions similarly like an AMM but does not contain an actual asset pool."
+  },
+  {
+    "Term": "Wallet",
+    "Description": "Software client that handles storage of cryptocurrencies and allows users to send cryptocurrencies."
+  },
+  {
+    "Term": "Wallet Address",
+    "Description": "The address in which cryptocurrency can be stored, sent to and receive."
+  },
+  {
+    "Term": "Wash Trade",
+    "Description": "Meaningless back and forth trading between a single party with the aim of inflating trade volume."
+  },
+  {
+    "Term": "Watchlist",
+    "Description": "A personally defined list of values to watch over for activity or changes."
+  },
+  {
+    "Term": "Web3 Wallet",
+    "Description": "Web3 Wallet is the software that allows you to interact with web 3.0."
+  },
+  {
+    "Term": "Wei",
+    "Description": "The smallest fraction of an Ether, with each Ether to 1000000000000000000 Wei."
+  },
+  {
+    "Term": "Whale",
+    "Description": "Someone who holds an enormous amount of cryptocurrency and has the ability to wave the market."
+  },
+  {
+    "Term": "When Lambo",
+    "Description": "An expression used by investors to ask when the value of their investment could buy them a Lamborghini."
+  },
+  {
+    "Term": "When Moon",
+    "Description": "An expression used by investors to ask when the price of a coin would hit a peak."
+  },
+  {
+    "Term": "Whitelist",
+    "Description": "List of approved participants that will be given access to a token sale (ICO, IEO, STO etc...)."
+  },
+  {
+    "Term": "Whitepaper",
+    "Description": "An introductory paper to consicely explain an issue and a possible solution on the issue."
+  },
+  {
+    "Term": "Yield Farming",
+    "Description": "Yield farming involves putting cryptocurrency into a DeFi protocol to collect interest on trading fees."
+  },
+  {
+    "Term": "YTD",
+    "Description": "Acronym for Year-to-date."
+  },
+  {
+    "Term": "Zero Confirmation Transaction",
+    "Description": "Another name for \"unconfirmed transaction\"."
+  },
+  {
+    "Term": "Zero Knowledge Proof",
+    "Description": "Cryptographic proof for 2 parties to verify a value without revealing what the value is."
+  },
+  {
+    "Term": "Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (Zk-Snarks)",
+    "Description": "An acronym for Zero-Knowledge Succinct Non-Interactive Argument of Knowledge, zk-SNARKs refers to a protocol where one can prove posession of a given piece of information (eg a string or hash) without revealing that information and also without any interaction between both the prover & verifier."
+  },
+  {
+    "Term": "zkML (Zero-Knowledge Machine Learning)",
+    "Description": "Zero-Knowledge Machine Learning (zkML) integrates the principles of zero-knowledge proofs with ML."
+  },
+  {
+    "Term": "zkOracle",
+    "Description": "A zkOracle is an advanced concept in blockchain technology that combines the properties of oracles with the principles of zero-knowledge proofs."
+  }
+]
